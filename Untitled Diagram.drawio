@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T15:24:12.007Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_sdxcP9Aeqi9XCznpQMX" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T15:25:42.610Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zCs2iYblRfIJYbEPOT8W" version="13.8.8" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2775.5" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jUEtblHf5CpniAY7jPPz-5" value="Automobiles" style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="110" height="50" as="geometry" />
+          <mxGeometry x="220" y="200" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jUEtblHf5CpniAY7jPPz-7" value="Arbres, poteaux" style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="110" height="50" as="geometry" />
+        <mxCell id="jUEtblHf5CpniAY7jPPz-7" value="Arbres, poteaux etc....." style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jUEtblHf5CpniAY7jPPz-8" value="Trottoirs&amp;nbsp;" style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="120" height="50" as="geometry" />
@@ -43,13 +43,13 @@
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jUEtblHf5CpniAY7jPPz-11" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jUEtblHf5CpniAY7jPPz-3" target="jUEtblHf5CpniAY7jPPz-8">
+        <mxCell id="jUEtblHf5CpniAY7jPPz-11" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jUEtblHf5CpniAY7jPPz-3" target="jUEtblHf5CpniAY7jPPz-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jUEtblHf5CpniAY7jPPz-12" value="Humains" style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+        <mxCell id="jUEtblHf5CpniAY7jPPz-12" value="Humains, animaux" style="html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="320" y="470" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jUEtblHf5CpniAY7jPPz-13" value="" style="endArrow=none;html=1;exitX=0.83;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jUEtblHf5CpniAY7jPPz-3" target="jUEtblHf5CpniAY7jPPz-12">
