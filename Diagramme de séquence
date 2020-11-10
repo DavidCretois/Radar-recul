@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T14:37:48.115Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="DWbgqCpQ8Kzmg12H-wbn" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T14:48:11.255Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="SfRZUIeYovNLs7SEGTf9" version="13.9.3" type="github">
   <diagram id="rxBQ8z5YZz3AsZZF6vqk" name="Page-1">
     <mxGraphModel dx="1662" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="220" y="450" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X2zQOElujJer3h4Lt6PD-41" value="allumé camera&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="90" width="40" height="20" as="geometry" />
+          <mxGeometry x="845" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X2zQOElujJer3h4Lt6PD-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="1191" y="35" width="20" height="795" as="geometry" />
@@ -177,6 +177,18 @@
             <mxPoint x="730" y="400" as="sourcePoint" />
             <mxPoint x="1060" y="634" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X2zQOElujJer3h4Lt6PD-66" value="camera ON" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2zQOElujJer3h4Lt6PD-69" value="lance l&#39;application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2zQOElujJer3h4Lt6PD-71" value="notifcation on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2zQOElujJer3h4Lt6PD-74" value="ecran allumer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="60" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
